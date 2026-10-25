@@ -1067,6 +1067,8 @@ function AppContent({
           creator={creator}
           onItem={read}
           onSettings={onSettings}
+          state={state}
+          onUi={onUi}
         />
       ) : app.id === "calculator" && !detail ? (
         <NativeCalculator
