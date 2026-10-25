@@ -230,10 +230,10 @@ export function NativeSettings({
                 className="settings-account"
                 onClick={() => nav.push("个人资料")}
               >
-                <span>{work.phone.owner.slice(0, 1)}</span>
+                <span>{profileAvatar.slice(0, 2)}</span>
                 <div>
-                  <strong>{work.phone.owner}</strong>
-                  <small>Apple 账户、iCloud 与更多</small>
+                  <strong>{profileName}</strong>
+                  <small>@{profileId} · 玩家个人资料</small>
                 </div>
                 <ChevronRight size={17} />
               </button>
