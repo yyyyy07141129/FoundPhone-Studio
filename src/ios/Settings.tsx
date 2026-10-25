@@ -19,7 +19,7 @@ import {
   Globe,
   Mic,
 } from "lucide-react";
-import type { Work, Item } from "../schema";
+import type { Work, Item, Runtime, UiValue } from "../schema";
 import { IOSToggle } from "../vendor/konsta/Toggle";
 import { NavigationPage, useNavigation } from "./Navigation";
 type Row = [ComponentType<{ size?: number }>, string, string];
@@ -51,12 +51,16 @@ export function NativeSettings({
   creator,
   onItem,
   onSettings,
+  state,
+  onUi,
 }: {
   work: Work;
   items: Item[];
   creator: boolean;
   onItem: (i: Item) => void;
   onSettings?: () => void;
+  state: Runtime;
+  onUi?: (key: string, value: UiValue) => void;
 }) {
   const nav = useNavigation(),
     [query, setQuery] = useState(""),
@@ -77,8 +81,26 @@ export function NativeSettings({
       <IOSToggle label={label} checked={value} onChange={set} />
     </div>
   );
+  const profileName = String(state.ui?.settings?.profileName ?? work.phone.owner);
+  const profileId = String(state.ui?.settings?.profileId ?? "my_id");
+  const profileAvatar = String(state.ui?.settings?.profileAvatar ?? "🙂");
+  const profileField = (label: string, value: string, key: string, placeholder: string) => (
+    <label className="settings-native-row" key={key}>
+      <span>{label}</span>
+      <input aria-label={label} value={value} placeholder={placeholder} onChange={(e) => onUi?.(key, e.target.value)} />
+    </label>
+  );
   const sub = () => {
     switch (nav.page) {
+      case "个人资料":
+        return (
+          <div className="settings-group">
+            {profileField("名字", profileName, "profileName", "输入你的名字")}
+            {profileField("ID", profileId, "profileId", "设置个人 ID")}
+            {profileField("头像（表情或文字）", profileAvatar, "profileAvatar", "例如 🐰")}
+            <p className="settings-page-caption">修改会保存在此浏览器的玩家进度中。头像支持表情或文字；不会上传到真实社交平台。</p>
+          </div>
+        );
       case "通用":
         return (
           <div className="settings-group">
@@ -206,7 +228,7 @@ export function NativeSettings({
             {!query && (
               <button
                 className="settings-account"
-                onClick={() => nav.push(work.phone.owner)}
+                onClick={() => nav.push("个人资料")}
               >
                 <span>{work.phone.owner.slice(0, 1)}</span>
                 <div>
