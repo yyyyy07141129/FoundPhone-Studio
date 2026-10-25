@@ -454,7 +454,15 @@ function PhoneRuntime({
                   items={[
                     ...(work.data[app] ?? []),
                     ...(s.messages[app] ?? []),
-                  ]}
+                  ].map((item) =>
+                    item.sender === "你"
+                      ? {
+                          ...item,
+                          sender: String(s.ui?.settings?.profileName ?? work.phone.owner),
+                          avatar: String(s.ui?.settings?.profileAvatar ?? item.avatar),
+                        }
+                      : item,
+                  )}
                   creator={creator}
                   state={s}
                   onRead={(id) => event("read", id)}
@@ -479,7 +487,13 @@ function PhoneRuntime({
                       ),
                     );
                   }}
-                  work={work}
+                  work={{
+                    ...work,
+                    phone: {
+                      ...work.phone,
+                      owner: String(s.ui?.settings?.profileName ?? work.phone.owner),
+                    },
+                  }}
                 />
               </AppWindow>
             ) : (
@@ -1090,7 +1104,7 @@ function AppContent({
                 className={`message-row ${i.outgoing ? "outgoing" : ""}`}
                 onClick={() => (creator ? onEdit(i) : onRead(i.id))}
               >
-                <span className="avatar">{i.sender.slice(0, 1)}</span>
+                <span className="avatar">{i.avatar || i.sender.slice(0, 1)}</span>
                 <span className="bubble">
                   {i.kind === "image" ||
                   i.kind === "audio" ||
