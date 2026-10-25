@@ -393,7 +393,7 @@
         "kind": "text",
         "meta": {
           "postType": "anonymous",
-          "comments": 6
+          "comments": "6"
         }
       }
     ],
@@ -415,7 +415,7 @@
         "body": "醒了没",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -437,7 +437,7 @@
         "body": "这么快",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -459,7 +459,7 @@
         "body": "那你怎么不回我",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -481,7 +481,7 @@
         "body": "想什么",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -503,7 +503,7 @@
         "body": "……",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -514,7 +514,7 @@
         "body": "你除了吃还会想什么",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -536,7 +536,7 @@
         "body": "我今天有行程",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -569,7 +569,7 @@
         "body": "可能要晚一点",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -591,7 +591,7 @@
         "body": "不知道",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -624,7 +624,7 @@
         "body": "随便你",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -657,7 +657,7 @@
         "body": "你都选好了还问我",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -679,7 +679,7 @@
         "body": "那不好吃",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -701,7 +701,7 @@
         "body": "直觉",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -723,7 +723,7 @@
         "body": "比如？",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -745,7 +745,7 @@
         "body": "不想",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -778,7 +778,7 @@
         "body": "ㅋㅋㅋㅋㅋㅋ",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -789,7 +789,7 @@
         "body": "想吃什么我回来买",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -811,7 +811,7 @@
         "body": "一份",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -833,7 +833,7 @@
         "body": "金云鹤",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -866,7 +866,7 @@
         "body": "你到底有没有听我说话",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -888,7 +888,7 @@
         "body": "我没答应两瓶",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -910,7 +910,7 @@
         "body": "你今天几点结束",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -932,7 +932,7 @@
         "body": "哦",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -954,7 +954,7 @@
         "body": "没什么",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -976,7 +976,7 @@
         "body": "ㅋㅋㅋㅋㅋㅋ",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -987,7 +987,7 @@
         "body": "我只是想问你要不要一起去买东西",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -1009,7 +1009,7 @@
         "body": "鱼缸的东西",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -1031,7 +1031,7 @@
         "body": "我觉得还可以再加一点",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -1053,7 +1053,7 @@
         "body": "这次不一样",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -1075,7 +1075,7 @@
         "body": "这次我已经看好新的了",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -1108,7 +1108,7 @@
         "body": "你不跟我一起去吗",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -1130,7 +1130,7 @@
         "body": "那你刚刚还问",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -1152,7 +1152,7 @@
         "body": "ㅋㅋㅋㅋㅋㅋ",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -1163,7 +1163,7 @@
         "body": "我就知道你会答应",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -1185,7 +1185,7 @@
         "body": "都可以",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -1207,7 +1207,7 @@
         "body": "那吃鱼",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -1229,7 +1229,7 @@
         "body": "没有",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -1251,7 +1251,7 @@
         "body": "所以才要去买啊",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -1273,7 +1273,7 @@
         "body": "嗯",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -1757,7 +1757,7 @@
         "body": "晚上可能不行",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -1779,7 +1779,7 @@
         "body": "要跟他们一起吃饭",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -1801,7 +1801,7 @@
         "body": "就那几个啊",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -1823,7 +1823,7 @@
         "body": "ㅋㅋㅋㅋㅋㅋ",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -1856,7 +1856,7 @@
         "body": "你怎么知道",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -1878,7 +1878,7 @@
         "body": "还有金桐儇和朴成淏",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -1911,7 +1911,7 @@
         "body": "差不多吧",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -1944,7 +1944,7 @@
         "body": "你想得美",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -1966,7 +1966,7 @@
         "body": "下次请你吃饭",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -1988,7 +1988,7 @@
         "body": "嗯嗯",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -2021,7 +2021,7 @@
         "body": "路上",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -2043,7 +2043,7 @@
         "body": "十分钟",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -2076,7 +2076,7 @@
         "body": "嗯",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -2098,7 +2098,7 @@
         "body": "……",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -2109,7 +2109,7 @@
         "body": "没忘",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -2142,7 +2142,7 @@
         "body": "我已经到店里了",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -2164,7 +2164,7 @@
         "body": "我先进去看",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -2186,7 +2186,7 @@
         "body": "我知道",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -2208,7 +2208,7 @@
         "body": "真的ㅋㅋㅋㅋ",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -2230,7 +2230,7 @@
         "body": "好",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -2241,7 +2241,7 @@
         "body": "[分享图片] 鱼缸照片",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -2252,7 +2252,7 @@
         "body": "这个怎么样",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -2274,7 +2274,7 @@
         "body": "那买这个？",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -2296,7 +2296,7 @@
         "body": "好吧",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -2318,7 +2318,7 @@
         "body": "我没有",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -2340,7 +2340,7 @@
         "body": "你怎么知道",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -2362,7 +2362,7 @@
         "body": "……",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       },
       {
@@ -2373,7 +2373,7 @@
         "body": "那你快点来。",
         "kind": "text",
         "meta": {},
-        "outgoing": false,
+        "outgoing": true,
         "read": false
       }
     ]
