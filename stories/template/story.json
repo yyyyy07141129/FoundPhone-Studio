@@ -3,7 +3,7 @@
   "id": "dongmin-woonhak-story",
   "title": "오늘은 누가 쏜다",
   "description": "BOYNEXTDOOR 멤버들의 가상 KKT 및 IG 이야기",
-  "revision": 3,
+  "revision": 4,
   "phone": {
     "owner": "你",
     "date": "2026-10-25",
@@ -130,6 +130,12 @@
       "name": "朋友",
       "phone": "",
       "bio": ""
+    },
+    {
+      "id": "taesan",
+      "name": "韩泰山",
+      "phone": "",
+      "bio": "BOYNEXTDOOR 成员；故事内容为虚构"
     }
   ],
   "chats": [
@@ -400,7 +406,7 @@
         "sanghyeok",
         "taehyun",
         "sungho",
-        "dongmin"
+        "taesan"
       ],
       "messages": [
         {
@@ -498,6 +504,36 @@
           "senderId": "dongmin",
           "body": "嗯",
           "time": "16:07"
+        },
+        {
+          "id": "grp17",
+          "senderId": "dongmin",
+          "body": "饮料要什么",
+          "time": "16:16"
+        },
+        {
+          "id": "grp18",
+          "senderId": "woonhak",
+          "body": "冰可乐！！！",
+          "time": "16:18"
+        },
+        {
+          "id": "grp19",
+          "senderId": "dongmin",
+          "body": "不是不说话了？",
+          "time": "16:20"
+        },
+        {
+          "id": "grp20",
+          "senderId": "woonhak",
+          "body": "……你到底买不买",
+          "time": "16:22"
+        },
+        {
+          "id": "grp21",
+          "senderId": "dongmin",
+          "body": "买",
+          "time": "16:23"
         }
       ]
     },
