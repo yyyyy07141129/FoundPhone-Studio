@@ -1,16 +1,17 @@
 {
   "scriptVersion": 1,
-  "id": "ui-test-phone-v2",
-  "title": "捡手机",
-  "description": "仅用于界面测试，不含剧情",
-  "revision": 2,
+  "id": "dongmin-woonhak-story",
+  "title": "오늘은 누가 쏜다",
+  "description": "BOYNEXTDOOR 멤버들의 가상 KKT 및 IG 이야기",
+  "revision": 3,
   "phone": {
-    "owner": "机主",
+    "owner": "你",
     "date": "2026-10-25",
     "time": "09:41",
     "battery": 94,
     "network": "5G",
-    "wallpaper": "apple-wwdc26"
+    "wallpaper": "rainy-blue-umbrella",
+    "passcode": "0530"
   },
   "installedApps": [
     "appstore",
@@ -89,607 +90,487 @@
   ],
   "contacts": [
     {
-      "id": "test-contact",
-      "name": "测试联系人",
+      "id": "dongmin",
+      "name": "韩东旼",
       "phone": "",
-      "bio": "这是一条测试内容。"
+      "bio": ""
+    },
+    {
+      "id": "woonhak",
+      "name": "金云鹤",
+      "phone": "",
+      "bio": ""
+    },
+    {
+      "id": "jaehyun",
+      "name": "明宰铉",
+      "phone": "",
+      "bio": ""
+    },
+    {
+      "id": "sanghyeok",
+      "name": "李常赫",
+      "phone": "",
+      "bio": ""
+    },
+    {
+      "id": "taehyun",
+      "name": "金桐儇",
+      "phone": "",
+      "bio": ""
+    },
+    {
+      "id": "sungho",
+      "name": "朴成淏",
+      "phone": "",
+      "bio": ""
+    },
+    {
+      "id": "friend",
+      "name": "朋友",
+      "phone": "",
+      "bio": ""
     }
   ],
   "chats": [
     {
-      "id": "test-chat-messages",
-      "app": "messages",
-      "title": "测试会话",
-      "participants": [
-        "owner",
-        "test-contact"
-      ],
-      "messages": [
-        {
-          "id": "test-message-messages",
-          "body": "这是一条测试消息。",
-          "senderId": "test-contact"
-        }
-      ]
-    },
-    {
-      "id": "test-chat-wechat",
-      "app": "wechat",
-      "title": "测试会话",
-      "participants": [
-        "owner",
-        "test-contact"
-      ],
-      "messages": [
-        {
-          "id": "test-message-wechat",
-          "body": "这是一条测试消息。",
-          "senderId": "test-contact"
-        }
-      ]
-    },
-    {
-      "id": "test-chat-qq",
-      "app": "qq",
-      "title": "测试会话",
-      "participants": [
-        "owner",
-        "test-contact"
-      ],
-      "messages": [
-        {
-          "id": "test-message-qq",
-          "body": "这是一条测试消息。",
-          "senderId": "test-contact"
-        }
-      ]
-    },
-    {
-      "id": "test-chat-whatsapp",
-      "app": "whatsapp",
-      "title": "测试会话",
-      "participants": [
-        "owner",
-        "test-contact"
-      ],
-      "messages": [
-        {
-          "id": "test-message-whatsapp",
-          "body": "这是一条测试消息。",
-          "senderId": "test-contact"
-        }
-      ]
-    },
-    {
-      "id": "test-chat-telegram",
-      "app": "telegram",
-      "title": "测试会话",
-      "participants": [
-        "owner",
-        "test-contact"
-      ],
-      "messages": [
-        {
-          "id": "test-message-telegram",
-          "body": "这是一条测试消息。",
-          "senderId": "test-contact"
-        }
-      ]
-    },
-    {
-      "id": "test-chat-discord",
-      "app": "discord",
-      "title": "测试会话",
-      "participants": [
-        "owner",
-        "test-contact"
-      ],
-      "messages": [
-        {
-          "id": "test-message-discord",
-          "body": "这是一条测试消息。",
-          "senderId": "test-contact"
-        }
-      ]
-    },
-    {
-      "id": "test-chat-line",
-      "app": "line",
-      "title": "测试会话",
-      "participants": [
-        "owner",
-        "test-contact"
-      ],
-      "messages": [
-        {
-          "id": "test-message-line",
-          "body": "这是一条测试消息。",
-          "senderId": "test-contact"
-        }
-      ]
-    },
-    {
-      "id": "test-chat-messenger",
-      "app": "messenger",
-      "title": "测试会话",
-      "participants": [
-        "owner",
-        "test-contact"
-      ],
-      "messages": [
-        {
-          "id": "test-message-messenger",
-          "body": "这是一条测试消息。",
-          "senderId": "test-contact"
-        }
-      ]
-    },
-    {
-      "id": "test-chat-kakao",
+      "id": "kkt-dongmin-woonhak",
       "app": "kakao",
-      "title": "测试会话",
+      "title": "韩东旼",
       "participants": [
-        "owner",
-        "test-contact"
+        "dongmin",
+        "woonhak"
       ],
       "messages": [
         {
-          "id": "test-message-kakao",
-          "body": "这是一条测试消息。",
-          "senderId": "test-contact"
+          "id": "dw01",
+          "senderId": "dongmin",
+          "body": "在干嘛？",
+          "time": "14:00"
         },
         {
-          "id": "test-reply-kakao",
-          "body": "这是一条测试回复。",
-          "senderId": "owner"
+          "id": "dw02",
+          "senderId": "woonhak",
+          "body": "躺着",
+          "time": "14:03"
+        },
+        {
+          "id": "dw03",
+          "senderId": "dongmin",
+          "body": "又躺",
+          "time": "14:04"
+        },
+        {
+          "id": "dw04",
+          "senderId": "woonhak",
+          "body": "不然呢 我还能飞起来吗",
+          "time": "14:07"
+        },
+        {
+          "id": "dw05",
+          "senderId": "dongmin",
+          "body": "可以 你试试",
+          "time": "14:09"
+        },
+        {
+          "id": "dw06",
+          "senderId": "woonhak",
+          "body": "哥你真的很烦",
+          "time": "14:12"
+        },
+        {
+          "id": "dw07",
+          "senderId": "dongmin",
+          "body": "ㅋㅋㅋㅋㅋㅋ",
+          "time": "14:13"
+        },
+        {
+          "id": "dw08",
+          "senderId": "woonhak",
+          "body": "你今天几点回来",
+          "time": "14:19"
+        },
+        {
+          "id": "dw09",
+          "senderId": "dongmin",
+          "body": "怎么了",
+          "time": "14:22"
+        },
+        {
+          "id": "dw10",
+          "senderId": "woonhak",
+          "body": "没怎么啊 问问不行吗",
+          "time": "14:24"
+        },
+        {
+          "id": "dw11",
+          "senderId": "dongmin",
+          "body": "行",
+          "time": "14:25"
+        },
+        {
+          "id": "dw12",
+          "senderId": "dongmin",
+          "body": "大概六点",
+          "time": "14:26"
+        },
+        {
+          "id": "dw13",
+          "senderId": "woonhak",
+          "body": "哦",
+          "time": "14:28"
+        },
+        {
+          "id": "dw14",
+          "senderId": "dongmin",
+          "body": "晚上想吃什么",
+          "time": "14:38"
+        },
+        {
+          "id": "dw15",
+          "senderId": "woonhak",
+          "body": "不知道",
+          "time": "14:41"
+        },
+        {
+          "id": "dw16",
+          "senderId": "dongmin",
+          "body": "那我不买了",
+          "time": "14:44"
+        },
+        {
+          "id": "dw17",
+          "senderId": "woonhak",
+          "body": "？？？？？",
+          "time": "14:45"
+        },
+        {
+          "id": "dw18",
+          "senderId": "woonhak",
+          "body": "我想吃辣炒猪肉",
+          "time": "14:46"
+        },
+        {
+          "id": "dw19",
+          "senderId": "dongmin",
+          "body": "不是不知道吗",
+          "time": "14:49"
+        },
+        {
+          "id": "dw20",
+          "senderId": "woonhak",
+          "body": "我现在知道了",
+          "time": "14:51"
+        },
+        {
+          "id": "dw21",
+          "senderId": "dongmin",
+          "body": "ㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "time": "14:52"
+        },
+        {
+          "id": "dw22",
+          "senderId": "woonhak",
+          "body": "你笑什么",
+          "time": "14:54"
+        },
+        {
+          "id": "dw23",
+          "senderId": "dongmin",
+          "body": "没什么 小孩挺善变",
+          "time": "14:57"
+        },
+        {
+          "id": "dw24",
+          "senderId": "woonhak",
+          "body": "我不是小孩",
+          "time": "15:00"
+        },
+        {
+          "id": "dw25",
+          "senderId": "dongmin",
+          "body": "好 不是",
+          "time": "15:01"
+        },
+        {
+          "id": "dw26",
+          "senderId": "woonhak",
+          "body": "你这语气什么意思",
+          "time": "15:04"
+        },
+        {
+          "id": "dw27",
+          "senderId": "dongmin",
+          "body": "夸你长大了",
+          "time": "15:06"
+        },
+        {
+          "id": "dw28",
+          "senderId": "woonhak",
+          "body": "……算了 你回来给我带吃的",
+          "time": "15:09"
+        },
+        {
+          "id": "dw29",
+          "senderId": "dongmin",
+          "body": "知道了",
+          "time": "15:11"
+        },
+        {
+          "id": "dw30",
+          "senderId": "woonhak",
+          "body": "要大的那份",
+          "time": "15:13"
+        },
+        {
+          "id": "dw31",
+          "senderId": "dongmin",
+          "body": "嗯",
+          "time": "15:14"
+        },
+        {
+          "id": "dw32",
+          "senderId": "woonhak",
+          "body": "还有饮料",
+          "time": "15:17"
+        },
+        {
+          "id": "dw33",
+          "senderId": "dongmin",
+          "body": "金云鹤",
+          "time": "15:19"
+        },
+        {
+          "id": "dw34",
+          "senderId": "woonhak",
+          "body": "干嘛！",
+          "time": "15:20"
+        },
+        {
+          "id": "dw35",
+          "senderId": "dongmin",
+          "body": "你是真不客气",
+          "time": "15:23"
+        },
+        {
+          "id": "dw36",
+          "senderId": "woonhak",
+          "body": "跟你客气什么ㅋㅋㅋ",
+          "time": "15:25"
+        },
+        {
+          "id": "dw37",
+          "senderId": "dongmin",
+          "body": "饮料要什么",
+          "time": "18:10"
+        },
+        {
+          "id": "dw38",
+          "senderId": "woonhak",
+          "body": "冰可乐！！！",
+          "time": "18:12"
+        },
+        {
+          "id": "dw39",
+          "senderId": "dongmin",
+          "body": "不是不说话了？",
+          "time": "18:14"
+        },
+        {
+          "id": "dw40",
+          "senderId": "woonhak",
+          "body": "……你到底买不买",
+          "time": "18:16"
+        },
+        {
+          "id": "dw41",
+          "senderId": "dongmin",
+          "body": "买",
+          "time": "18:17"
+        }
+      ]
+    },
+    {
+      "id": "kkt-members-group",
+      "app": "kakao",
+      "title": "보넥도 단톡",
+      "participants": [
+        "woonhak",
+        "jaehyun",
+        "sanghyeok",
+        "taehyun",
+        "sungho",
+        "dongmin"
+      ],
+      "messages": [
+        {
+          "id": "grp01",
+          "senderId": "woonhak",
+          "body": "哥说给我买吃的",
+          "time": "15:31"
+        },
+        {
+          "id": "grp02",
+          "senderId": "jaehyun",
+          "body": "哇 我也想吃",
+          "time": "15:33"
+        },
+        {
+          "id": "grp03",
+          "senderId": "sanghyeok",
+          "body": "你们两个不是天天见吗",
+          "time": "15:36"
+        },
+        {
+          "id": "grp04",
+          "senderId": "woonhak",
+          "body": "那又怎样",
+          "time": "15:37"
+        },
+        {
+          "id": "grp05",
+          "senderId": "taehyun",
+          "body": "吃什么",
+          "time": "15:40"
+        },
+        {
+          "id": "grp06",
+          "senderId": "woonhak",
+          "body": "辣炒猪肉",
+          "time": "15:41"
+        },
+        {
+          "id": "grp07",
+          "senderId": "sungho",
+          "body": "少吃点辣的",
+          "time": "15:45"
+        },
+        {
+          "id": "grp08",
+          "senderId": "woonhak",
+          "body": "成淏哥ㅠㅠ",
+          "time": "15:46"
+        },
+        {
+          "id": "grp09",
+          "senderId": "jaehyun",
+          "body": "ㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "time": "15:48"
+        },
+        {
+          "id": "grp10",
+          "senderId": "woonhak",
+          "body": "你们都不爱我",
+          "time": "15:52"
+        },
+        {
+          "id": "grp11",
+          "senderId": "dongmin",
+          "body": "他今天已经吃过两顿了",
+          "time": "15:56"
+        },
+        {
+          "id": "grp12",
+          "senderId": "woonhak",
+          "body": "哥！！！",
+          "time": "15:57"
+        },
+        {
+          "id": "grp13",
+          "senderId": "woonhak",
+          "body": "你怎么什么都往外说",
+          "time": "15:58"
+        },
+        {
+          "id": "grp14",
+          "senderId": "dongmin",
+          "body": "事实",
+          "time": "16:00"
+        },
+        {
+          "id": "grp15",
+          "senderId": "woonhak",
+          "body": "我再也不跟你说话了",
+          "time": "16:02"
+        },
+        {
+          "id": "grp16",
+          "senderId": "dongmin",
+          "body": "嗯",
+          "time": "16:07"
+        }
+      ]
+    },
+    {
+      "id": "kkt-woonhak-friend",
+      "app": "kakao",
+      "title": "朋友",
+      "participants": [
+        "woonhak",
+        "friend"
+      ],
+      "messages": [
+        {
+          "id": "wf01",
+          "senderId": "woonhak",
+          "body": "你俩真的很像小学生",
+          "time": "18:35"
+        },
+        {
+          "id": "wf02",
+          "senderId": "friend",
+          "body": "你俩真的很像小学生",
+          "time": "18:36"
+        },
+        {
+          "id": "wf03",
+          "senderId": "woonhak",
+          "body": "你懂什么",
+          "time": "18:38"
         }
       ]
     }
   ],
   "content": {
-    "phone": [
-      {
-        "id": "test-item-phone",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "contacts": [
-      {
-        "id": "test-item-contacts",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "photos": [
-      {
-        "id": "test-item-photos",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "camera": [
-      {
-        "id": "test-item-camera",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "safari": [
-      {
-        "id": "test-item-safari",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "notes": [
-      {
-        "id": "test-item-notes",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "calendar": [
-      {
-        "id": "test-item-calendar",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "mail": [
-      {
-        "id": "test-item-mail",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "clock": [
-      {
-        "id": "test-item-clock",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "reminders": [
-      {
-        "id": "test-item-reminders",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "files": [
-      {
-        "id": "test-item-files",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "music": [
-      {
-        "id": "test-item-music",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "maps": [
-      {
-        "id": "test-item-maps",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "weather": [
-      {
-        "id": "test-item-weather",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "wallet": [
-      {
-        "id": "test-item-wallet",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "health": [
-      {
-        "id": "test-item-health",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "find": [
-      {
-        "id": "test-item-find",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "calculator": [
-      {
-        "id": "test-item-calculator",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "settings": [
-      {
-        "id": "test-item-settings",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "weibo": [
-      {
-        "id": "test-item-weibo",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "redbook": [
-      {
-        "id": "test-item-redbook",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "douyin": [
-      {
-        "id": "test-item-douyin",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "bilibili": [
-      {
-        "id": "test-item-bilibili",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "alipay": [
-      {
-        "id": "test-item-alipay",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "taobao": [
-      {
-        "id": "test-item-taobao",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "netease": [
-      {
-        "id": "test-item-netease",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "delivery": [
-      {
-        "id": "test-item-delivery",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "forum": [
-      {
-        "id": "test-item-forum",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
     "instagram": [
       {
-        "id": "test-item-instagram",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
+        "id": "ig-woonhak-story",
+        "title": "今天有人请客ㅋㅋ",
+        "body": "一杯冰可乐和一份辣炒猪肉。今天有人请客ㅋㅋ",
+        "sender": "金云鹤",
+        "time": "18:28",
         "kind": "text",
-        "meta": {}
-      }
-    ],
-    "tiktok": [
-      {
-        "id": "test-item-tiktok",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "twitter": [
-      {
-        "id": "test-item-twitter",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "youtube": [
-      {
-        "id": "test-item-youtube",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "snapchat": [
-      {
-        "id": "test-item-snapchat",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "facebook": [
-      {
-        "id": "test-item-facebook",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "reddit": [
-      {
-        "id": "test-item-reddit",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "spotify": [
-      {
-        "id": "test-item-spotify",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "netflix": [
-      {
-        "id": "test-item-netflix",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "pinterest": [
-      {
-        "id": "test-item-pinterest",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      }
-    ],
-    "threads": [
-      {
-        "id": "test-item-threads",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
-      },
-      {
-        "id": "test-threads-message-1",
-        "title": "测试会话1",
-        "body": "这是一条测试消息。",
-        "sender": "测试联系人1",
-        "folder": "私信"
-      },
-      {
-        "id": "test-threads-activity-1",
-        "title": "测试动态1",
-        "body": "这是一条测试回复动态。",
-        "sender": "测试用户1",
         "meta": {
-          "activityType": "reply"
+          "story": "true",
+          "author": "woonhak",
+          "replies": [
+            {
+              "sender": "韩东旼",
+              "body": "吃不完别找我。",
+              "time": "18:30"
+            },
+            {
+              "sender": "金云鹤",
+              "body": "我什么时候吃不完过！",
+              "time": "18:31"
+            },
+            {
+              "sender": "韩东旼",
+              "body": "昨天。",
+              "time": "18:32"
+            },
+            {
+              "sender": "金云鹤",
+              "body": "你闭嘴。",
+              "time": "18:33"
+            },
+            {
+              "sender": "韩东旼",
+              "body": "ㅋㅋㅋㅋㅋ",
+              "time": "18:34"
+            }
+          ]
         }
-      },
-      {
-        "id": "test-threads-message-2",
-        "title": "测试会话2",
-        "body": "这是一条测试消息。",
-        "sender": "测试联系人2",
-        "folder": "私信"
-      },
-      {
-        "id": "test-threads-activity-2",
-        "title": "测试动态2",
-        "body": "这是一条测试回复动态。",
-        "sender": "测试用户2",
-        "meta": {
-          "activityType": "reply"
-        }
-      },
-      {
-        "id": "test-threads-message-3",
-        "title": "测试会话3",
-        "body": "这是一条测试消息。",
-        "sender": "测试联系人3",
-        "folder": "私信"
-      },
-      {
-        "id": "test-threads-activity-3",
-        "title": "测试动态3",
-        "body": "这是一条测试回复动态。",
-        "sender": "测试用户3",
-        "meta": {
-          "activityType": "reply"
-        }
-      }
-    ],
-    "appstore": [
-      {
-        "id": "test-appstore",
-        "title": "测试内容",
-        "body": "这是一条测试内容。"
       }
     ]
   },
