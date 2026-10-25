@@ -217,7 +217,18 @@
           "imageDescription": "鱼缸照片，没有露脸"
         },
         "media": "",
-        "likes": 21
+        "likes": 21,
+        "comments": [
+          "金桐儇：我已经找好了。",
+          "朴成淏：你先别买。",
+          "金桐儇：ㅋㅋㅋㅋㅋㅋ",
+          "朴成淏：我说真的。",
+          "金桐儇：好吧。",
+          "朴成淏：链接发我。",
+          "金桐儇：不是不让买吗？",
+          "朴成淏：我说先别买，没说不买。",
+          "金桐儇：知道了ㅋㅋㅋㅋ"
+        ]
       },
       {
         "id": "story-instagram-195",
@@ -290,96 +301,6 @@
         "kind": "text",
         "meta": {},
         "folder": "私信"
-      },
-      {
-        "id": "story-instagram-202",
-        "title": "鱼缸",
-        "sender": "金桐儇",
-        "time": "16:04",
-        "body": "评论：我已经找好了。",
-        "kind": "text",
-        "meta": {},
-        "folder": "评论"
-      },
-      {
-        "id": "story-instagram-203",
-        "title": "鱼缸",
-        "sender": "朴成淏",
-        "time": "16:05",
-        "body": "回复：你先别买。",
-        "kind": "text",
-        "meta": {},
-        "folder": "评论"
-      },
-      {
-        "id": "story-instagram-204",
-        "title": "鱼缸",
-        "sender": "金桐儇",
-        "time": "16:06",
-        "body": "ㅋㅋㅋㅋㅋㅋ",
-        "kind": "text",
-        "meta": {},
-        "folder": "评论"
-      },
-      {
-        "id": "story-instagram-205",
-        "title": "鱼缸",
-        "sender": "朴成淏",
-        "time": "16:07",
-        "body": "我说真的。",
-        "kind": "text",
-        "meta": {},
-        "folder": "评论"
-      },
-      {
-        "id": "story-instagram-206",
-        "title": "鱼缸",
-        "sender": "金桐儇",
-        "time": "16:08",
-        "body": "好吧。",
-        "kind": "text",
-        "meta": {},
-        "folder": "评论"
-      },
-      {
-        "id": "story-instagram-207",
-        "title": "鱼缸",
-        "sender": "朴成淏",
-        "time": "16:09",
-        "body": "链接发我。",
-        "kind": "text",
-        "meta": {},
-        "folder": "评论"
-      },
-      {
-        "id": "story-instagram-208",
-        "title": "鱼缸",
-        "sender": "金桐儇",
-        "time": "16:10",
-        "body": "不是不让买吗？",
-        "kind": "text",
-        "meta": {},
-        "folder": "评论"
-      },
-      {
-        "id": "story-instagram-209",
-        "title": "鱼缸",
-        "sender": "朴成淏",
-        "time": "16:11",
-        "body": "我说先别买，没说不买。",
-        "kind": "text",
-        "meta": {},
-        "folder": "评论"
-      },
-      {
-        "id": "story-instagram-210",
-        "title": "鱼缸",
-        "sender": "金桐儇",
-        "time": "16:12",
-        "body": "知道了ㅋㅋㅋㅋ",
-        "kind": "text",
-        "meta": {},
-        "folder": "评论"
       }
     ],
     "tiktok": [],
@@ -1728,281 +1649,6 @@
         "read": false
       },
       {
-        "id": "story-kakao-167",
-        "title": "朋友",
-        "sender": "朋友",
-        "time": "15:35",
-        "body": "你晚上有空吗",
-        "kind": "text",
-        "meta": {},
-        "outgoing": false,
-        "read": false
-      },
-      {
-        "id": "story-kakao-168",
-        "title": "朋友",
-        "sender": "朋友",
-        "time": "15:35",
-        "body": "出来吃饭不",
-        "kind": "text",
-        "meta": {},
-        "outgoing": false,
-        "read": false
-      },
-      {
-        "id": "story-kakao-169",
-        "title": "朋友",
-        "sender": "你",
-        "time": "15:39",
-        "body": "晚上可能不行",
-        "kind": "text",
-        "meta": {},
-        "outgoing": true,
-        "read": false
-      },
-      {
-        "id": "story-kakao-170",
-        "title": "朋友",
-        "sender": "朋友",
-        "time": "15:41",
-        "body": "又怎么了",
-        "kind": "text",
-        "meta": {},
-        "outgoing": false,
-        "read": false
-      },
-      {
-        "id": "story-kakao-171",
-        "title": "朋友",
-        "sender": "你",
-        "time": "15:44",
-        "body": "要跟他们一起吃饭",
-        "kind": "text",
-        "meta": {},
-        "outgoing": true,
-        "read": false
-      },
-      {
-        "id": "story-kakao-172",
-        "title": "朋友",
-        "sender": "朋友",
-        "time": "15:46",
-        "body": "哪几个",
-        "kind": "text",
-        "meta": {},
-        "outgoing": false,
-        "read": false
-      },
-      {
-        "id": "story-kakao-173",
-        "title": "朋友",
-        "sender": "你",
-        "time": "15:47",
-        "body": "就那几个啊",
-        "kind": "text",
-        "meta": {},
-        "outgoing": true,
-        "read": false
-      },
-      {
-        "id": "story-kakao-174",
-        "title": "朋友",
-        "sender": "朋友",
-        "time": "15:49",
-        "body": "你能不能每次说话说清楚一点",
-        "kind": "text",
-        "meta": {},
-        "outgoing": false,
-        "read": false
-      },
-      {
-        "id": "story-kakao-175",
-        "title": "朋友",
-        "sender": "你",
-        "time": "15:50",
-        "body": "ㅋㅋㅋㅋㅋㅋ",
-        "kind": "text",
-        "meta": {},
-        "outgoing": true,
-        "read": false
-      },
-      {
-        "id": "story-kakao-176",
-        "title": "朋友",
-        "sender": "朋友",
-        "time": "15:52",
-        "body": "我猜一下",
-        "kind": "text",
-        "meta": {},
-        "outgoing": false,
-        "read": false
-      },
-      {
-        "id": "story-kakao-177",
-        "title": "朋友",
-        "sender": "朋友",
-        "time": "15:53",
-        "body": "韩东旼和金云鹤？",
-        "kind": "text",
-        "meta": {},
-        "outgoing": false,
-        "read": false
-      },
-      {
-        "id": "story-kakao-178",
-        "title": "朋友",
-        "sender": "你",
-        "time": "15:55",
-        "body": "你怎么知道",
-        "kind": "text",
-        "meta": {},
-        "outgoing": true,
-        "read": false
-      },
-      {
-        "id": "story-kakao-179",
-        "title": "朋友",
-        "sender": "朋友",
-        "time": "15:56",
-        "body": "因为你每次说晚上有事都是他们两个",
-        "kind": "text",
-        "meta": {},
-        "outgoing": false,
-        "read": false
-      },
-      {
-        "id": "story-kakao-180",
-        "title": "朋友",
-        "sender": "你",
-        "time": "15:58",
-        "body": "还有金桐儇和朴成淏",
-        "kind": "text",
-        "meta": {},
-        "outgoing": true,
-        "read": false
-      },
-      {
-        "id": "story-kakao-181",
-        "title": "朋友",
-        "sender": "朋友",
-        "time": "15:58",
-        "body": "？？？？？",
-        "kind": "text",
-        "meta": {},
-        "outgoing": false,
-        "read": false
-      },
-      {
-        "id": "story-kakao-182",
-        "title": "朋友",
-        "sender": "朋友",
-        "time": "15:59",
-        "body": "所以是两对一起吃饭？",
-        "kind": "text",
-        "meta": {},
-        "outgoing": false,
-        "read": false
-      },
-      {
-        "id": "story-kakao-183",
-        "title": "朋友",
-        "sender": "你",
-        "time": "16:00",
-        "body": "差不多吧",
-        "kind": "text",
-        "meta": {},
-        "outgoing": true,
-        "read": false
-      },
-      {
-        "id": "story-kakao-184",
-        "title": "朋友",
-        "sender": "朋友",
-        "time": "16:01",
-        "body": "我真的服了",
-        "kind": "text",
-        "meta": {},
-        "outgoing": false,
-        "read": false
-      },
-      {
-        "id": "story-kakao-185",
-        "title": "朋友",
-        "sender": "朋友",
-        "time": "16:02",
-        "body": "那你帮我问问能不能带上我",
-        "kind": "text",
-        "meta": {},
-        "outgoing": false,
-        "read": false
-      },
-      {
-        "id": "story-kakao-186",
-        "title": "朋友",
-        "sender": "你",
-        "time": "16:03",
-        "body": "你想得美",
-        "kind": "text",
-        "meta": {},
-        "outgoing": true,
-        "read": false
-      },
-      {
-        "id": "story-kakao-187",
-        "title": "朋友",
-        "sender": "朋友",
-        "time": "16:04",
-        "body": "小气鬼",
-        "kind": "text",
-        "meta": {},
-        "outgoing": false,
-        "read": false
-      },
-      {
-        "id": "story-kakao-188",
-        "title": "朋友",
-        "sender": "你",
-        "time": "16:05",
-        "body": "下次请你吃饭",
-        "kind": "text",
-        "meta": {},
-        "outgoing": true,
-        "read": false
-      },
-      {
-        "id": "story-kakao-189",
-        "title": "朋友",
-        "sender": "朋友",
-        "time": "16:05",
-        "body": "你说的啊",
-        "kind": "text",
-        "meta": {},
-        "outgoing": false,
-        "read": false
-      },
-      {
-        "id": "story-kakao-190",
-        "title": "朋友",
-        "sender": "你",
-        "time": "16:06",
-        "body": "嗯嗯",
-        "kind": "text",
-        "meta": {},
-        "outgoing": true,
-        "read": false
-      },
-      {
-        "id": "story-kakao-191",
-        "title": "朋友",
-        "sender": "朋友",
-        "time": "16:07",
-        "body": "截图了 不许反悔",
-        "kind": "text",
-        "meta": {},
-        "outgoing": false,
-        "read": false
-      },
-      {
         "id": "story-kakao-212",
         "title": "韩东旼",
         "sender": "金云鹤",
@@ -2374,6 +2020,283 @@
         "kind": "text",
         "meta": {},
         "outgoing": true,
+        "read": false
+      }
+    ],
+    "wechat": [
+      {
+        "id": "story-wechat-167",
+        "title": "朋友",
+        "sender": "朋友",
+        "time": "15:35",
+        "body": "你晚上有空吗",
+        "kind": "text",
+        "meta": {},
+        "outgoing": false,
+        "read": false
+      },
+      {
+        "id": "story-wechat-168",
+        "title": "朋友",
+        "sender": "朋友",
+        "time": "15:35",
+        "body": "出来吃饭不",
+        "kind": "text",
+        "meta": {},
+        "outgoing": false,
+        "read": false
+      },
+      {
+        "id": "story-wechat-169",
+        "title": "朋友",
+        "sender": "你",
+        "time": "15:39",
+        "body": "晚上可能不行",
+        "kind": "text",
+        "meta": {},
+        "outgoing": true,
+        "read": false
+      },
+      {
+        "id": "story-wechat-170",
+        "title": "朋友",
+        "sender": "朋友",
+        "time": "15:41",
+        "body": "又怎么了",
+        "kind": "text",
+        "meta": {},
+        "outgoing": false,
+        "read": false
+      },
+      {
+        "id": "story-wechat-171",
+        "title": "朋友",
+        "sender": "你",
+        "time": "15:44",
+        "body": "要跟他们一起吃饭",
+        "kind": "text",
+        "meta": {},
+        "outgoing": true,
+        "read": false
+      },
+      {
+        "id": "story-wechat-172",
+        "title": "朋友",
+        "sender": "朋友",
+        "time": "15:46",
+        "body": "哪几个",
+        "kind": "text",
+        "meta": {},
+        "outgoing": false,
+        "read": false
+      },
+      {
+        "id": "story-wechat-173",
+        "title": "朋友",
+        "sender": "你",
+        "time": "15:47",
+        "body": "就那几个啊",
+        "kind": "text",
+        "meta": {},
+        "outgoing": true,
+        "read": false
+      },
+      {
+        "id": "story-wechat-174",
+        "title": "朋友",
+        "sender": "朋友",
+        "time": "15:49",
+        "body": "你能不能每次说话说清楚一点",
+        "kind": "text",
+        "meta": {},
+        "outgoing": false,
+        "read": false
+      },
+      {
+        "id": "story-wechat-175",
+        "title": "朋友",
+        "sender": "你",
+        "time": "15:50",
+        "body": "ㅋㅋㅋㅋㅋㅋ",
+        "kind": "text",
+        "meta": {},
+        "outgoing": true,
+        "read": false
+      },
+      {
+        "id": "story-wechat-176",
+        "title": "朋友",
+        "sender": "朋友",
+        "time": "15:52",
+        "body": "我猜一下",
+        "kind": "text",
+        "meta": {},
+        "outgoing": false,
+        "read": false
+      },
+      {
+        "id": "story-wechat-177",
+        "title": "朋友",
+        "sender": "朋友",
+        "time": "15:53",
+        "body": "韩东旼和金云鹤？",
+        "kind": "text",
+        "meta": {},
+        "outgoing": false,
+        "read": false
+      },
+      {
+        "id": "story-wechat-178",
+        "title": "朋友",
+        "sender": "你",
+        "time": "15:55",
+        "body": "你怎么知道",
+        "kind": "text",
+        "meta": {},
+        "outgoing": true,
+        "read": false
+      },
+      {
+        "id": "story-wechat-179",
+        "title": "朋友",
+        "sender": "朋友",
+        "time": "15:56",
+        "body": "因为你每次说晚上有事都是他们两个",
+        "kind": "text",
+        "meta": {},
+        "outgoing": false,
+        "read": false
+      },
+      {
+        "id": "story-wechat-180",
+        "title": "朋友",
+        "sender": "你",
+        "time": "15:58",
+        "body": "还有金桐儇和朴成淏",
+        "kind": "text",
+        "meta": {},
+        "outgoing": true,
+        "read": false
+      },
+      {
+        "id": "story-wechat-181",
+        "title": "朋友",
+        "sender": "朋友",
+        "time": "15:58",
+        "body": "？？？？？",
+        "kind": "text",
+        "meta": {},
+        "outgoing": false,
+        "read": false
+      },
+      {
+        "id": "story-wechat-182",
+        "title": "朋友",
+        "sender": "朋友",
+        "time": "15:59",
+        "body": "所以是两对一起吃饭？",
+        "kind": "text",
+        "meta": {},
+        "outgoing": false,
+        "read": false
+      },
+      {
+        "id": "story-wechat-183",
+        "title": "朋友",
+        "sender": "你",
+        "time": "16:00",
+        "body": "差不多吧",
+        "kind": "text",
+        "meta": {},
+        "outgoing": true,
+        "read": false
+      },
+      {
+        "id": "story-wechat-184",
+        "title": "朋友",
+        "sender": "朋友",
+        "time": "16:01",
+        "body": "我真的服了",
+        "kind": "text",
+        "meta": {},
+        "outgoing": false,
+        "read": false
+      },
+      {
+        "id": "story-wechat-185",
+        "title": "朋友",
+        "sender": "朋友",
+        "time": "16:02",
+        "body": "那你帮我问问能不能带上我",
+        "kind": "text",
+        "meta": {},
+        "outgoing": false,
+        "read": false
+      },
+      {
+        "id": "story-wechat-186",
+        "title": "朋友",
+        "sender": "你",
+        "time": "16:03",
+        "body": "你想得美",
+        "kind": "text",
+        "meta": {},
+        "outgoing": true,
+        "read": false
+      },
+      {
+        "id": "story-wechat-187",
+        "title": "朋友",
+        "sender": "朋友",
+        "time": "16:04",
+        "body": "小气鬼",
+        "kind": "text",
+        "meta": {},
+        "outgoing": false,
+        "read": false
+      },
+      {
+        "id": "story-wechat-188",
+        "title": "朋友",
+        "sender": "你",
+        "time": "16:05",
+        "body": "下次请你吃饭",
+        "kind": "text",
+        "meta": {},
+        "outgoing": true,
+        "read": false
+      },
+      {
+        "id": "story-wechat-189",
+        "title": "朋友",
+        "sender": "朋友",
+        "time": "16:05",
+        "body": "你说的啊",
+        "kind": "text",
+        "meta": {},
+        "outgoing": false,
+        "read": false
+      },
+      {
+        "id": "story-wechat-190",
+        "title": "朋友",
+        "sender": "你",
+        "time": "16:06",
+        "body": "嗯嗯",
+        "kind": "text",
+        "meta": {},
+        "outgoing": true,
+        "read": false
+      },
+      {
+        "id": "story-wechat-191",
+        "title": "朋友",
+        "sender": "朋友",
+        "time": "16:07",
+        "body": "截图了 不许反悔",
+        "kind": "text",
+        "meta": {},
+        "outgoing": false,
         "read": false
       }
     ]
