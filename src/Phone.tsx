@@ -133,6 +133,11 @@ function PhoneRuntime({
   onRuntime?: (s: Runtime) => void;
 }) {
   const [app, setApp] = useState("");
+  const [deviceClock, setDeviceClock] = useState(() => new Date());
+  useEffect(() => {
+    const timer = window.setInterval(() => setDeviceClock(new Date()), 1000);
+    return () => window.clearInterval(timer);
+  }, []);
   const [homeRequest, setHomeRequest] = useState(0);
   const [locked, setLocked] = useState(!creator);
   const [pinOpen, setPinOpen] = useState(false);
@@ -290,7 +295,7 @@ function PhoneRuntime({
   useEffect(() => {
     if (app && !work.apps.some((a) => a.id === app && a.installed)) setApp("");
   }, [app, work.apps]);
-  const displayTime = creator ? work.phone.time : s.time || work.phone.time;
+  const displayTime = new Intl.DateTimeFormat(undefined, { hour: "2-digit", minute: "2-digit", hour12: false }).format(deviceClock);
   const plugin = getApp(app);
   useEffect(() => {
     const count = s.notifications.length;
