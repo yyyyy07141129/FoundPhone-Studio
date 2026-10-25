@@ -512,18 +512,12 @@
       "messages": [
         {
           "id": "wf01",
-          "senderId": "woonhak",
-          "body": "你俩真的很像小学生",
-          "time": "18:35"
-        },
-        {
-          "id": "wf02",
           "senderId": "friend",
           "body": "你俩真的很像小学生",
           "time": "18:36"
         },
         {
-          "id": "wf03",
+          "id": "wf02",
           "senderId": "woonhak",
           "body": "你懂什么",
           "time": "18:38"
